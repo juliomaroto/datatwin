@@ -18,5 +18,5 @@ and exploit the full potential of python.
 ```
 Licensed under GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007.
 Please refer to LICENSE file in the repository root to get more details
-about the liability related with using and distribution of this software.
+about the liability related with the using and distribution of this software.
 ```
