@@ -12,3 +12,11 @@ and exploit the full potential of python.
 
 
 ![alt text](asset/images/main_diagram.png)
+
+### License
+
+```
+Licensed under GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007.
+Please refer to LICENSE file in the repository root to get more details
+about what you can and you can not do.
+```
